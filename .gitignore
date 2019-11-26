@@ -24,7 +24,6 @@ hs_err_pid*
 
 # intellij IDEA 專案設定
 .idea
-*.iml
 
 # 編譯後資料夾
 target
